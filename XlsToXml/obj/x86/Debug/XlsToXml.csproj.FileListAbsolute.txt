@@ -1,0 +1,5 @@
+C:\work\test\XlsToXml\XlsToXml\bin\Debug\XlsToXml.exe
+C:\work\test\XlsToXml\XlsToXml\bin\Debug\XlsToXml.pdb
+C:\work\test\XlsToXml\XlsToXml\obj\x86\Debug\XlsToXml.exe
+C:\work\test\XlsToXml\XlsToXml\obj\x86\Debug\XlsToXml.pdb
+C:\work\test\XlsToXml\XlsToXml\obj\x86\Debug\XlsToXml.csprojResolveAssemblyReference.cache
