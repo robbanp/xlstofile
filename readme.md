@@ -4,8 +4,11 @@ In XML mode you can say in the arguments what the title will be of each column.
 How to use:
 
 C:\XlsToXml.exe help
+
 ** HELP **
+
 argument 0: xml,csv
+
 argument 1: input filename
 argument 2: page number to process
 argument 3: output filename
