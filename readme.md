@@ -5,7 +5,7 @@ How to use:
 
 C:\XlsToXml.exe help
 
-** HELP **<bt>
+** HELP **<br>
 argument 0: xml,csv<br>
 argument 1: input filename<br>
 argument 2: page number to process<br>
