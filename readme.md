@@ -8,11 +8,11 @@ C:\XlsToXml.exe help
 ** HELP **
 
 argument 0: xml,csv
-
 argument 1: input filename
 argument 2: page number to process
 argument 3: output filename
 argument 4 to x: param names in xml file only
+
 
 arg 0, is one of the two supported formats (maybe JSON later on?)
 arg 1, the .xls file you want to parse (if you have xlsx you need to convert to xls)
